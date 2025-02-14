@@ -1,14 +1,8 @@
 @font-face {
-    font-family: 'DOSPilgiMedium';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2304-2@1.0/DOSPilgiMedium.woff2') format('woff2');
-    font-weight: normal;
-    font-style: normal;
-}
-@font-face {
-    font-family: 'MiraeroNormal';
-    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_eight@1.0/MiraeroNormal.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
+    font-family: 'SUITE-Regular';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2304-2@1.0/SUITE-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: light;
 }
 * {
     margin: 0;
@@ -18,6 +12,6 @@
 body, html {
     height: 100%;
     overflow: hidden;
-    font-family: 'DOSPilgiMedium';
-    font-size: 16px;
+    font-family: 'SUITE-Regular';
+    font-size: 14px;
 }
