@@ -16,7 +16,7 @@ body, html {
     font-size: 14px;
 }
 img {
-  min-width: 50%;
-  max-width: 300px;
+  max-width: 50%;
+  min-width: 300px;
   height: auto;
 }
