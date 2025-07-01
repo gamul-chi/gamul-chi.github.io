@@ -20,7 +20,7 @@ img {
   height: auto;
 }
 
-  .box-wrapper {
+box-wrapper {
       display: block;
       border: 2px solid #444;
       padding: 16px;
