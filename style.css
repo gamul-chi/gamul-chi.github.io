@@ -24,7 +24,7 @@ img {
     max-width: 800px;
     margin: 0 auto;
 }
-.box-wrapper {
+box-wrapper {
     display: block;
     border: 2px solid #444;
     padding: 16px;
