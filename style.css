@@ -10,7 +10,7 @@
     box-sizing: border-box;
 }
 body, html {
-    padding-top: 20px;
+padding: 16px;
     font-family: 'SUITE-Regular';
     font-size: 14px;
 }
@@ -24,7 +24,7 @@ box-wrapper {
       display: block;
       border: 2px solid #444;
       padding: 16px;
-      margin: 16px;
+margin: 0 16px 16px 16px;
       background-color: #f5f5f5;
       font-family: 'SUITE-Regular';
       border-radius: 8px;
